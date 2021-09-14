@@ -1,1 +1,1 @@
-test <- function() print('pizza')
+test <- function() print('cookie')
